@@ -26,7 +26,7 @@ jobs:
 
     - name: Run Python script
       run: |
-        python house_prices_ml.py
+        python house_prices_2.py
 
     - name: Build Docker image
       run: |
